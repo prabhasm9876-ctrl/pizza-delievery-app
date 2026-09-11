@@ -1,4 +1,4 @@
-# 🍕 Pizza Point - Full-Stack Pizza Delivery App
+#  Pizza Point - Full-Stack Pizza Delivery App
 
 [![React](https://img.shields.io/badge/Frontend-React_18-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -9,17 +9,17 @@ A modern, full-stack web application for ordering delicious pizzas online. **Piz
 
 ---
 
-## ✨ Features
+## Features
 
-- 🍕 **Interactive Menu**: Browse top-rated pizzas, beverages, and sides with rich imagery and descriptions.
-- 🛒 **Dynamic Shopping Cart**: Real-time cart updates, quantity management, item removal, and subtotal calculation.
-- 🔐 **Authentication & Authorization**: User registration, secure login with JWT token persistence, and auto-login support.
-- 📦 **Order Tracking**: Place orders and view comprehensive order history with status tracking.
-- 🎨 **Responsive & Modern UI**: Smooth interactive elements (horizontal dish sliders, dynamic banners, and glassmorphism styling).
+-  **Interactive Menu**: Browse top-rated pizzas, beverages, and sides with rich imagery and descriptions.
+- **Dynamic Shopping Cart**: Real-time cart updates, quantity management, item removal, and subtotal calculation.
+-  **Authentication & Authorization**: User registration, secure login with JWT token persistence, and auto-login support.
+-  **Order Tracking**: Place orders and view comprehensive order history with status tracking.
+-  **Responsive & Modern UI**: Smooth interactive elements (horizontal dish sliders, dynamic banners, and glassmorphism styling).
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Frontend**
 - **Framework**: React 18
@@ -36,7 +36,7 @@ A modern, full-stack web application for ordering delicious pizzas online. **Piz
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 react_experiments/
@@ -68,7 +68,7 @@ react_experiments/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 Make sure you have the following installed on your machine:
@@ -105,8 +105,8 @@ Make sure you have the following installed on your machine:
    ```bash
    python -m uvicorn app.main:app --reload --port 8000
    ```
-   > 💡 The API will be available at **`http://localhost:8000`**  
-   > 📖 Interactive API Docs (Swagger UI) at **`http://localhost:8000/docs`**
+   >  The API will be available at **`http://localhost:8000`**  
+   >  Interactive API Docs (Swagger UI) at **`http://localhost:8000/docs`**
 
 ---
 
@@ -126,11 +126,11 @@ Make sure you have the following installed on your machine:
    ```bash
    npm start
    ```
-   > 🌐 The web application will launch at **`http://localhost:3000`**
+   >  The web application will launch at **`http://localhost:3000`**
 
 ---
 
-## 🔌 API Endpoints Overview
+##  API Endpoints Overview
 
 | Method | Endpoint | Description |
 | :--- | :--- | :--- |
@@ -145,13 +145,13 @@ Make sure you have the following installed on your machine:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to check the [issues page](https://github.com/prabhasm9876-ctrl/pizza-delievery-app/issues).
 
 ---
 
-## 📜 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
