@@ -149,9 +149,3 @@ Make sure you have the following installed on your machine:
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to check the [issues page](https://github.com/prabhasm9876-ctrl/pizza-delievery-app/issues).
-
----
-
-##  License
-
-Distributed under the MIT License. See `LICENSE` for more information.
