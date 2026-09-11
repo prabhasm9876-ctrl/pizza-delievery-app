@@ -3,7 +3,7 @@
 [![React](https://img.shields.io/badge/Frontend-React_18-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 A modern, full-stack web application for ordering delicious pizzas online. **Pizza Point** features an interactive UI built with React, paired with a robust REST API powered by Python & FastAPI.
 
@@ -149,3 +149,4 @@ Make sure you have the following installed on your machine:
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to check the [issues page](https://github.com/prabhasm9876-ctrl/pizza-delievery-app/issues).
+
